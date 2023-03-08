@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   enable-background="new"
+   version="1.1"
+   id="svg1326"
+   sodipodi:docname="battery-full-charged.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1330" />
+  <sodipodi:namedview
+     id="namedview1328"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="15.269087"
+     inkscape:cy="19.26866"
+     inkscape:window-width="932"
+     inkscape:window-height="1114"
+     inkscape:window-x="970"
+     inkscape:window-y="68"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1324" />
+  <title
+     id="title1316">Paper Symbolic Icon Theme</title>
+  <g
+     transform="translate(2,4)"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     id="g1324"
+     style="fill:#f2cdcd;fill-opacity:1">
+    <rect
+       x="2"
+       y="5"
+       width="13"
+       height="6"
+       rx="0.52103001"
+       ry="0.54584002"
+       fill="#73d216"
+       style="display:inline;fill:#a6e3ad;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect1318"
+       inkscape:label="rect1318" />
+    <path
+       d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h13c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h13c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-13c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z"
+       enable-background="new"
+       style="paint-order:stroke fill markers;fill:#f5c2e7;fill-opacity:1.0"
+       id="path1320" />
+    <path
+       d="m18 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
+       enable-background="new"
+       style="paint-order:stroke fill markers;fill:#f5c2e7;fill-opacity:1.0"
+       id="path1322" />
+  </g>
+</svg>
